@@ -1,3 +1,4 @@
+[![GitHub issues](https://img.shields.io/github/issues/amine0110/Manual-tumor-segmentation)](https://github.com/amine0110/Manual-tumor-segmentation/issues) [![GitHub license](https://img.shields.io/github/license/amine0110/Manual-tumor-segmentation)](https://github.com/amine0110/Manual-tumor-segmentation) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pydicom)
 # Manual tumor segmentation
 This project was a homework about creating a plateforme using Python that helps the doctors to segment the tumors or organs manualy then calculate their volume or surface.
 
