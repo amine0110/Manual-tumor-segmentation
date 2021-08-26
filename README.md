@@ -5,7 +5,7 @@ This project was a homework about creating a plateforme using Python that helps 
 ## Tool to create this app
 To create this app, I used `Python` and `Tkinter` for the GUI, then I used other libraries to do the other features (the conversions ...)
 
-## Features of this app
+## Features of this app 
 - Friendly with dicom files
 - Convert dicoms into JPG or PNG
 - Convert normal image (JPG or PNG) into dicoms
