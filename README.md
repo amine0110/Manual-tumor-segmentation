@@ -47,3 +47,10 @@ ____________________________________________________________
 - 10: This button is to save the image displayed in section 1.
 - 11: This button is to load a new DICOM image.
 - 12: This button is to convert images from JPEG into DICOM.
+
+
+## 🆕 NEW
+
+Full course about medical imaging segmentation is coming soon, join the waitlist here:
+
+https://pycad.co/monai-and-pytoch-for-medical-imaging/
